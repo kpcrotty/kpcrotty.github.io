@@ -3,13 +3,8 @@ project:
   output-dir: docs
   render:
     - index.qmd
-    # - intro.qmd
-    # - returns.qmd
-    # - trading.qmd
-    # - portfolios.qmd
-    # - stocks_bonds.qmd
-    # - performance.qmd
-    # - taxes.qmd
+    - busi448.qmd
+    - research.qmd
 
 
 website:
@@ -19,26 +14,16 @@ website:
   navbar:
     search: false
     left:
-      - text: "BUSI 448"
+      - text: "Home"
         file: index.qmd
 
-      # - text: "Intro"
-      #   file: intro.qmd
+      - text: "Research"
+        file: research.qmd     
+        
+      - text: "BUSI 448"
+        file: busi448.qmd        
 
-      # - text: "Returns and Assets"
-      #   file: returns.qmd
-
-      # - text: "Home"
-      #   file: trading.qmd
-
-      # - text: "Home"
-      #   file: portfolios.qmd
-
-      # - text: "Home"
-      #   file: stocks_bonds.qmd
-
-      # - text: "Home"
-      #   file: performance.qmd                                        
+                            
 
 format:
   html:
