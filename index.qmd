@@ -1,6 +1,6 @@
 :::: {.columns}
 ::: {.column width=50}
-**Kevin Crotty** <br>
+<font size="+2">**Kevin Crotty**</font> <br>
 *Associate Professor of Finance*<br>
 *Jones Graduate School of Business*<br>
 *Rice University*

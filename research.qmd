@@ -2,12 +2,20 @@
 
 ### Publications
 
+- Crane, Alan, Kevin Crotty, and Tarik Umar, forthcoming.  [Hedge Funds and Public Information Acquisition](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3127825). *Management Science*. <br>
+- Back, Kerry, Kevin Crotty, and Seyed Kazempour, 2022. [Validity, Tightness, and Forecasting Power of Risk Premium Bounds](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3704908). *Journal of Financial Economics* 144, 732-760.  [DOI](https://doi.org/10.1016/j.jfineco.2022.02.003)
+- Crane, Alan D., and Kevin Crotty, 2020. [How Skilled Are Security Analysts?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3147238). *Journal of Finance* 75, 1629–1675. [DOI](https://onlinelibrary.wiley.com/doi/10.1111/jofi.12890)
+- Crane, Alan, Kevin Crotty, Sébastien Michenaud, and Patricia Naranjo, 2018. [The Causal Effects of Short-Selling Bans: Evidence from Eligibility Thresholds](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2598142). *Review of Asset Pricing Studies* 9: 137–170. [DOI](https://doi.org/10.1093/rapstu/ray004)
+- Back, Kerry, Alan Crane, and Kevin Crotty. 2018. [Skewness Consequences of Seeking Alpha](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2625788). *Review of Financial Studies* 31: 4720-4761. [DOI](https://doi-org.ezproxy.rice.edu/10.1093/rfs/hhy029)
+- Back, Kerry, Kevin Crotty, and Tao Li. 2018. [Identifying Information Asymmetry in Securities Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2565216). *Review of Financial Studies* 31: 2277–2325. [DOI](https://doi.org/10.1093/rfs/hhx133)
+- Crane, Alan, and Kevin Crotty. 2018. [Passive versus Active Fund Performance: Do Index Funds Have Skill?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2467102). *Journal of Financial and Quantitative Analysis* 43 (1): 33–64. [DOI](https://www.cambridge.org/core/journals/journal-of-financial-and-quantitative-analysis/article/passive-versus-active-fund-performance-do-index-funds-have-skill/F025DBD6823F2948F6119050E95DA457/share/5e176cf9a2ce3e6ae0280a1a0c27decbcce49c29)
+- Crotty, Kevin, and Alberto Teguia. 2017. [Estimating Asset Pricing Models with Frictions.](https://doi.org/10.1016/j.econlet.2017.02.016). *Economics Letters* 154: 24–27. [DOI](https://doi.org/10.1016/j.econlet.2017.02.016)
+- Back, Kerry, and Kevin Crotty. 2015. [The Informational Role of Stock and Bond Volume.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2220835). *Review of Financial Studies* 28: 1381–1427. [DOI](https://doi.org/10.1093/rfs/hhu094)
 
-[Hedge Funds and Public Information Acquisition](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3127825)
 
 ### Working Papers
 
-[Errors in Shareholder Voting](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=3945818)
+- [Errors in Shareholder Voting](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=3945818) (with Patrick Blonien, Alan Crane, and David De Angelis)
 
 <hr>
 
