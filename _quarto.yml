@@ -13,13 +13,13 @@ project:
 
 
 website:
-  title: "BUSI 448"
+  title: ""
   search: false
 
   navbar:
     search: false
     left:
-      - text: "Home"
+      - text: "BUSI 448"
         file: index.qmd
 
       # - text: "Intro"
