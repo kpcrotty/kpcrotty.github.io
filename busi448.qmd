@@ -5,7 +5,7 @@
 
 [Modern Investments: Theory, Data, and Practice](http://mi.bbcx-investments.com/index.html)
 
-[Course Code Binder](https://mybinder.org/v2/gh/kerryback/2022-721-binder.git/HEAD)
+[Course Code Binder](https://mybinder.org/v2/gh/kpcrotty/busi448_binder/HEAD)
 
 <hr>
 
@@ -40,6 +40,8 @@ Associate Professor of Finance<br>
 
 [8. Short-selling](./busi448/trading_securities.html)
 
+*Midterm #1*
+
 #### Portfolios
 
 [9. Diversification](./busi448/trading_securities.html)
@@ -54,6 +56,7 @@ Associate Professor of Finance<br>
 
 [14. Benchmark + Active](./busi448/trading_securities.html)
 
+
 #### Equity Models
 
 [15. CAPM](./busi448/trading_securities.html)
@@ -67,6 +70,8 @@ Associate Professor of Finance<br>
 [18. Duration](./busi448/trading_securities.html)
 
 [19. Convexity](./busi448/trading_securities.html)
+
+*Midterm #2*
 
 #### Asset Management
 
