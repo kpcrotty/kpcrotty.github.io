@@ -1,20 +1,50 @@
 project:
   type: website
   output-dir: docs
+  render:
+    - index.qmd
+    # - intro.qmd
+    # - returns.qmd
+    # - trading.qmd
+    # - portfolios.qmd
+    # - stocks_bonds.qmd
+    # - performance.qmd
+    # - taxes.qmd
+
 
 website:
-  title: "website"
+  title: "BUSI 448"
+  search: false
+
   navbar:
+    search: false
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: "Home"
+        file: index.qmd
+
+      # - text: "Intro"
+      #   file: intro.qmd
+
+      # - text: "Returns and Assets"
+      #   file: returns.qmd
+
+      # - text: "Home"
+      #   file: trading.qmd
+
+      # - text: "Home"
+      #   file: portfolios.qmd
+
+      # - text: "Home"
+      #   file: stocks_bonds.qmd
+
+      # - text: "Home"
+      #   file: performance.qmd                                        
 
 format:
   html:
     theme: cosmo
     css: styles.css
-    toc: true
+    toc: false
 
 
 

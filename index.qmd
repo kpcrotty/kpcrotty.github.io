@@ -1,7 +1,35 @@
----
-title: "website"
----
+## BUSI 448<br>Investments<br>Jones Graduate School of Business<br>Rice University
 
-This is a Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+[BBCX Investments Library](http://bbcx-investments.com)
+
+[Modern Investments: Theory, Data, and Practice](http://mi.bbcx-investments.com/index.html)
+
+[Course Code Binder](https://mybinder.org/v2/gh/kerryback/2022-721-binder.git/HEAD)
+
+<hr>
+
+#### Instructor
+
+Kevin Crotty<br>
+Associate Professor of Finance<br>
+<a href="mailto:kpc2@rice.edu">kpc2@rice.edu</a>
+
+<hr>
+
+### Course Outline and Slides
+#### Intro
+
+[1. Intro to course](./slides/intro.html)
+
+[2. Saving for retirement](./slides/intro.html)
+
+#### Returns and Asset Classes
+
+[3. Calculating returns](./slides/asset_class_history.html)
+
+[4. Asset Classes I](./slides/asset_class_history.html)
+
+[5. Asset Classes II](./slides/asset_class_history.html)
+
+[6. Trading Securities I](./slides/trading_securities.html)
