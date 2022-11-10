@@ -1,5 +1,5 @@
 ---
-title: Kevin Crotty - Home Page
+title: "Kevin Crotty - Home Page"
 ---
 
 :::: {.columns}
