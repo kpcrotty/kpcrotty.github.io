@@ -19,9 +19,12 @@ website:
 
       - text: "Research"
         file: research.qmd     
-        
+
       - text: "BUSI 448"
-        file: busi448.qmd        
+        file: busi448.qmd       
+
+      - text: "CV" 
+        file: KevinCrottyCV.pdf
 
                             
 
