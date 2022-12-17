@@ -20,79 +20,76 @@ Associate Professor of Finance<br>
 ### Course Outline and Slides
 #### Intro
 
-[1. Intro to course](./busi448/intro.html)
+[1. Intro to course](./busi448/01_intro.html)
 
-[2. Saving for retirement](./busi448/intro.html)
+[2. Saving for retirement](./busi448/02_saving.html)
 
-#### Returns and Asset Classes
+[3. Calculating returns](./busi448/03_returns.html)
 
-[3. Calculating returns](./busi448/asset_class_history.html)
+#### Financial Markets
 
-[4. Asset Classes I](./busi448/asset_class_history.html)
+[4. Equity Markets](./busi448/04_stocks.html)
 
-[5. Asset Classes II](./busi448/asset_class_history.html)
+[5. Treasury Markets](./busi448/05_treasuries.html)
 
-#### Trading Securities
+[6. Arbitrage + No-arbitrage Pricing](./busi448/06_arbitrage.html)
 
-[6. Markets](./busi448/trading_securities.html)
+[7. Markets, Trading, & Adverse Seelction](./busi448/07_markets.html)
 
-[7. Leverage & Margin](./busi448/trading_securities.html)
+[8. Leverage + Margin](./busi448/08_leverage.html)
 
-[8. Short-selling](./busi448/trading_securities.html)
+[9. Short-selling + Limits to Arbitrage](./busi448/09_shorting.html)
 
-*Midterm #1*
+#### Optimal Portfolios
 
-#### Portfolios
+[10. Diversification](./busi448/10_diversification.html)
 
-[9. Diversification](./busi448/trading_securities.html)
+[11. Theory](./busi448/11_portfolios_theory.html)
 
-[10. Theory](./busi448/trading_securities.html)
+[12. Practice](./busi448/12_portfolios_practice.html)
 
-[11. Practice](./busi448/trading_securities.html)
+[13. Rebalancing](./busi448/13_rebalancing.html)
 
-[12. Rebalancing](./busi448/trading_securities.html)
+14. Input Sensitivity
+<!-- [14. Input Sensitivity](./busi448/14_inpu_sensitivity.html) -->
 
-[13. Input Sensitivity](./busi448/trading_securities.html)
+#### Equity Topics
 
-[14. Benchmark + Active](./busi448/trading_securities.html)
+[15. Benchmark models](./busi448/15_mkt_model_regression.html)
 
+[16. CAPM](./busi448/16_capm.html)
 
-#### Equity Models
+[17. Return Predictability](./busi448/17_predictability.html)
 
-[15. CAPM](./busi448/trading_securities.html)
+[18. Multifactor Models](./busi448/18_multifactor_models.html)
 
-[16. Return Predictability](./busi448/trading_securities.html)
+#### Fixed Income Topics
 
-[17. Multifactor Models](./busi448/trading_securities.html)
+[19. Duration](./busi448/19_duration.html)
 
-#### Fixed Income
+[20. Convexity](./busi448/20_convexity.html)
 
-[18. Duration](./busi448/trading_securities.html)
-
-[19. Convexity](./busi448/trading_securities.html)
-
-*Midterm #2*
-
-#### Asset Management
-
-[20. Theory](./busi448/trading_securities.html)
-
-[21. Data Issues](./busi448/trading_securities.html)
-
-#### Performance Evaluation
-
-[22. Return-Based Measures](./busi448/trading_securities.html)
-
-[23. Holdings-Based Measures](./busi448/trading_securities.html)
-
-[24. Fees](./busi448/trading_securities.html)
+[21. Credit Risk](./busi448/21_credit_risk.html)
 
 #### Taxes
 
-[25. Tax-advantaged Accounts](./busi448/trading_securities.html)
+[22. Tax-advantaged Accounts](./busi448/22_tax_advantaged_accts.html)
 
-[26. Tax-advantaged Assets](./busi448/trading_securities.html)
+23. Tax-advantaged Assets
+<!-- [23. Tax-advantaged Assets](./busi448/trading_securities.html) -->
+
+#### Performance Evaluation
+
+24. Asset Management
+<!-- [24. Asset Management](./busi448/trading_securities.html) -->
+
+25. Returns-based Measures
+<!-- [25. Returns-based Measures](./busi448/trading_securities.html) -->
+
+26. Fees
+<!-- [26. Fees](./busi448/trading_securities.html) -->
 
 #### Review/Catch-up
 
-[27. Review](./busi448/trading_securities.html)
+27. Review
+<!-- [27. Review](./busi448/trading_securities.html) -->
