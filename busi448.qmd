@@ -18,6 +18,9 @@ Associate Professor of Finance<br>
 <hr>
 
 ### Course Outline and Slides
+
+[0. Python basics](./busi448/python_basics.html)
+
 #### Intro
 
 [1. Intro to course](./busi448/01_intro.html)
