@@ -53,7 +53,7 @@ Associate Professor of Finance<br>
 
 [13. Theory](./busi448/13_portfolios_theory.html)
 
-[14. Practice](./busi448/14_portfolios_practice.html)
+[14. Practice](./busi448/14_portfolios_borrowing_frictions.html)
 
 [15. Rebalancing](./busi448/15_rebalancing.html)
 
