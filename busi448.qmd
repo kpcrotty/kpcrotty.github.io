@@ -53,50 +53,52 @@ Associate Professor of Finance<br>
 
 [13. Theory](./busi448/13_portfolios_theory.html)
 
-[14. Practice](./busi448/14_portfolios_borrowing_frictions.html)
+[14. Practice: Borrowing Frictions](./busi448/14_portfolios_borrowing_frictions.html)
 
-[15. Rebalancing](./busi448/15_rebalancing.html)
+[15. Practice: Shorting Constraints](./busi448/15_portfolios_short_constraints.html)
 
-16. Input Sensitivity
-<!-- [14. Input Sensitivity](./busi448/14_inpu_sensitivity.html) -->
+[16. Rebalancing](./busi448/15_rebalancing.html)
+
+17. Input Sensitivity
+<!-- [14. Input Sensitivity](./busi448/14_input_sensitivity.html) -->
 
 #### Equity Topics
 
-[17. Benchmark models](./busi448/17_mkt_model_regression.html)
+[18. Benchmark models](./busi448/17_mkt_model_regression.html)
 
-[18. CAPM](./busi448/18_capm.html)
+[19. CAPM](./busi448/18_capm.html)
 
-[19. Return Predictability](./busi448/19_predictability.html)
+[20. Return Predictability](./busi448/19_predictability.html)
 
-[20. Multifactor Models](./busi448/20_multifactor_models.html)
+[21. Multifactor Models](./busi448/20_multifactor_models.html)
 
 #### Fixed Income Topics
 
-[21. Duration](./busi448/21_duration.html)
+[22. Duration](./busi448/21_duration.html)
 
-[22. Convexity](./busi448/22_convexity.html)
+[23. Convexity](./busi448/22_convexity.html)
 
-[23. Credit Risk](./busi448/23_credit_risk.html)
+[24. Credit Risk](./busi448/23_credit_risk.html)
 
 #### Taxes
 
-[24. Tax-advantaged Accounts](./busi448/24_tax_advantaged_accts.html)
+[25. Tax-advantaged Accounts](./busi448/24_tax_advantaged_accts.html)
 
 <!-- 23. Tax-advantaged Assets -->
 <!-- [23. Tax-advantaged Assets](./busi448/trading_securities.html) -->
 
 #### Performance Evaluation
 
-25. Asset Management
+26. Asset Management
 <!-- [24. Asset Management](./busi448/trading_securities.html) -->
 
-26. Returns-based Measures
+27. Returns-based Measures
 <!-- [25. Returns-based Measures](./busi448/trading_securities.html) -->
 
 <!-- 26. Fees -->
 <!-- [26. Fees](./busi448/trading_securities.html) -->
 
-#### Review/Catch-up
+<!-- #### Review/Catch-up
 
-27. Review
+27. Review -->
 <!-- [27. Review](./busi448/trading_securities.html) -->
