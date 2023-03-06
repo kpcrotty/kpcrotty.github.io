@@ -57,7 +57,7 @@ Associate Professor of Finance<br>
 
 [15. Practice: Shorting Constraints](./busi448/15_portfolios_short_constraints.html)
 
-[16. Rebalancing](./busi448/15_rebalancing.html)
+[16. Rebalancing](./busi448/16_rebalancing.html)
 
 17. Input Sensitivity
 <!-- [14. Input Sensitivity](./busi448/14_input_sensitivity.html) -->
