@@ -59,8 +59,7 @@ Associate Professor of Finance<br>
 
 [16. Rebalancing](./busi448/16_rebalancing.html)
 
-17. Input Sensitivity
-<!-- [14. Input Sensitivity](./busi448/14_input_sensitivity.html) -->
+[17. Input Sensitivity](./busi448/17_input_sensitivity.html)
 
 #### Equity Topics
 
