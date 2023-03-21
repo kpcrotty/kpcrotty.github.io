@@ -63,7 +63,7 @@ Associate Professor of Finance<br>
 
 #### Equity Topics
 
-[18. Benchmark models](./busi448/17_mkt_model_regression.html)
+[18. Benchmark models](./busi448/18_mkt_model_regression.html)
 
 [19. CAPM](./busi448/18_capm.html)
 
