@@ -65,23 +65,23 @@ Associate Professor of Finance<br>
 
 [18. Benchmark models](./busi448/18_mkt_model_regression.html)
 
-[19. CAPM](./busi448/18_capm.html)
+[19. CAPM](./busi448/19_capm.html)
 
-[20. Return Predictability](./busi448/19_predictability.html)
+[20. Return Predictability](./busi448/20_predictability.html)
 
-[21. Multifactor Models](./busi448/20_multifactor_models.html)
+[21. Multifactor Models](./busi448/21_multifactor_models.html)
 
 #### Fixed Income Topics
 
-[22. Duration](./busi448/21_duration.html)
+[22. Duration](./busi448/22_duration.html)
 
-[23. Convexity](./busi448/22_convexity.html)
+[23. Convexity](./busi448/23_convexity.html)
 
-[24. Credit Risk](./busi448/23_credit_risk.html)
+[24. Credit Risk](./busi448/24_credit_risk.html)
 
 #### Taxes
 
-[25. Tax-advantaged Accounts](./busi448/24_tax_advantaged_accts.html)
+[25. Tax-advantaged Accounts](./busi448/25_tax_advantaged_accts.html)
 
 <!-- 23. Tax-advantaged Assets -->
 <!-- [23. Tax-advantaged Assets](./busi448/trading_securities.html) -->
