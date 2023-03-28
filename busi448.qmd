@@ -1,7 +1,7 @@
 ## BUSI 448<br>Investments<br>Rice University
 
 
-[BBCX Investments Library](http://bbcx-investments.com)
+[Interactive Investments Dashboard](https://learn-investments.org)
 
 [Modern Investments: Theory, Data, and Practice](http://mi.bbcx-investments.com/index.html)
 
@@ -88,16 +88,15 @@ Associate Professor of Finance<br>
 
 #### Performance Evaluation
 
-26. Asset Management
+26. Asset Management + Performance Measures
 <!-- [24. Asset Management](./busi448/trading_securities.html) -->
 
-27. Returns-based Measures
 <!-- [25. Returns-based Measures](./busi448/trading_securities.html) -->
 
 <!-- 26. Fees -->
 <!-- [26. Fees](./busi448/trading_securities.html) -->
 
-<!-- #### Review/Catch-up
+#### Review/Catch-up
 
-27. Review -->
+27. Review 
 <!-- [27. Review](./busi448/trading_securities.html) -->
