@@ -93,7 +93,7 @@ Associate Professor of Finance<br>
 
 #### Taxes
 
-[26. Tax-advantaged Accounts](./busi448/26_tax_advantaged_accts.html)
+[26. Taxes](./busi448/26_tax_advantaged_accts.html)
 
 <!-- 23. Tax-advantaged Assets -->
 <!-- [23. Tax-advantaged Assets](./busi448/trading_securities.html) -->
