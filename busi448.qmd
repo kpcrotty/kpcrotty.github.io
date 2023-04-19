@@ -100,5 +100,4 @@ Associate Professor of Finance<br>
 
 #### Review/Catch-up
 
-27. Review 
-<!-- [27. Review](./busi448/trading_securities.html) -->
+[27. Review](./busi448/27_review.html)
