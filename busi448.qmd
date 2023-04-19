@@ -41,7 +41,9 @@ Associate Professor of Finance<br>
 
 [8. Arbitrage + No-arbitrage Pricing](./busi448/08_arbitrage.html)
 
-[9. Markets, Trading, & Adverse Selection](./busi448/09_markets.html) &nbsp;&nbsp; [(Notes on optimal bidding)](./busi448/asymmetric_info.html) 
+[9. Markets, Trading, & Adverse Selection](./busi448/09_markets.html) 
+
+<!-- &nbsp;&nbsp; [(Notes on optimal bidding)](./busi448/asymmetric_info.html)  -->
 
 [10. Leverage + Margin](./busi448/10_leverage.html)
 
