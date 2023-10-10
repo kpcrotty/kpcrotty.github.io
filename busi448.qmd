@@ -1,9 +1,9 @@
 ## BUSI 448<br>Investments<br>Rice University
 
 
-[Learn Investments App](https://learn-investments.org)
+[Learn Investments App](https://learn-investments.rice-business.org)
 
-[Modern Investments: Theory, Data, and Practice](http://mi.bbcx-investments.com/index.html)
+[Learn Investments Overview](./busi448/99_learn_investments.html)
 
 [Course Code Binder](https://mybinder.org/v2/gh/kpcrotty/busi448_binder/HEAD)
 

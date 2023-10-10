@@ -2,7 +2,7 @@
 
 ### Publications
 
-- Crane, Alan, Kevin Crotty, and Tarik Umar, forthcoming.  [Hedge Funds and Public Information Acquisition](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3127825). *Management Science*. <br>
+- Crane, Alan, Kevin Crotty, and Tarik Umar, forthcoming.  [Hedge Funds and Public Information Acquisition](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3127825). *Management Science* 69, 3241-3262. [DOI](https://doi.org/10.1287/mnsc.2022.4466)
 - Back, Kerry, Kevin Crotty, and Seyed Kazempour, 2022. [Validity, Tightness, and Forecasting Power of Risk Premium Bounds](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3704908). *Journal of Financial Economics* 144, 732-760.  [DOI](https://doi.org/10.1016/j.jfineco.2022.02.003)
 - Crane, Alan D., and Kevin Crotty, 2020. [How Skilled Are Security Analysts?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3147238). *Journal of Finance* 75, 1629–1675. [DOI](https://onlinelibrary.wiley.com/doi/10.1111/jofi.12890)
 - Crane, Alan, Kevin Crotty, Sébastien Michenaud, and Patricia Naranjo, 2018. [The Causal Effects of Short-Selling Bans: Evidence from Eligibility Thresholds](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2598142). *Review of Asset Pricing Studies* 9: 137–170. [DOI](https://doi.org/10.1093/rapstu/ray004)

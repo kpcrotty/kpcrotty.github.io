@@ -11,7 +11,7 @@
 ::: 
 ::::
 
-Kevin Crotty is an associate professor of finance at the Jones Graduate School of Business at Rice University. His research studies information and frictions in financial markets and investment performance evaluation. His work is published or forthcoming in Journal of Finance, Review of Financial Studies,  Journal of Financial Economics, Journal of Financial and Quantitative Analysis, Management Science, Economics Letters, and Review of Asset Pricing Studies.  He currently teaches Applied Finance to MBA students, Investments to undergraduate students, and a topics course for PhD students. Prior to joining the faculty at Rice in 2012, he completed a Ph.D. in finance at Northwestern University's Kellogg School of Management. He also holds undergraduate and graduate degrees from the University of North Carolina.
+Kevin Crotty is an associate professor of finance at the Jones Graduate School of Business at Rice University. His research studies information and frictions in financial markets and investment performance evaluation. His work is published or forthcoming in *Journal of Finance*, *Review of Financial Studies*,  *Journal of Financial Economics*, *Review of Asset Pricing Studies*, *Journal of Financial and Quantitative Analysis*, *Economics Letters*, and *Management Science*.  He currently teaches Applied Finance to MBA students, Investments to undergraduate students, a Data-Driven Investments Lab course for MBAs and undergraduates, and a topics course for PhD students. Prior to joining the faculty at Rice in 2012, he completed a Ph.D. in finance at Northwestern University's Kellogg School of Management. He also holds undergraduate and graduate degrees from the University of North Carolina.
 
 <hr>
 
