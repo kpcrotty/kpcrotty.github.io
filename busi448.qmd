@@ -19,87 +19,79 @@ Associate Professor of Finance<br>
 
 ### Course Outline and Slides
 
-[0. Python basics](./busi448/python_basics.html)  
+[0. Python basics](./busi448/python_basics.html)  [![notebook #1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kpcrotty/busi448/blob/main/class_notebooks/00_python_basics.ipynb)
 
 #### Intro
 
-[1. Intro to course](./busi448/01_intro.html)  
-<!-- [![notebook #1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kpcrotty/busi448/blob/main/class_notebooks/01_intro.ipynb) -->
+[1. Intro to course](./busi448/01_intro.html)  [![notebook #1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kpcrotty/busi448/blob/main/class_notebooks/01_intro.ipynb)
 
-[2. Saving for retirement](./busi448/02_saving.html)
+[2. Saving for retirement](./busi448/02_saving.html) [![notebook #1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kpcrotty/busi448/blob/main/class_notebooks/02_saving.ipynb)
 
-[3. Real and nominal saving](./busi448/03_saving_real_nominal.html)
+[3. Real and nominal saving](./busi448/03_saving_real_nominal.html) [![notebook #1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kpcrotty/busi448/blob/main/class_notebooks/03_saving_real_nominal.ipynb)
 
-[4. Calculating returns](./busi448/04_returns.html)
+[4. Calculating returns](./busi448/04_returns.html) [![notebook #1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kpcrotty/busi448/blob/main/class_notebooks/04_returns.ipynb)
 
-[5. Portfolio returns](./busi448/05_returns_portfolios.html)
+[5. Portfolio returns](./busi448/05_returns_portfolios.html) [![notebook #1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kpcrotty/busi448/blob/main/class_notebooks/05_returns_portfolios.ipynb)
 
 #### Financial Markets
 
-[6. Equity Markets](./busi448/06_stocks.html)
+[6. Equity Markets](./busi448/06_stocks.html) [![notebook #1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kpcrotty/busi448/blob/main/class_notebooks/06_stocks.ipynb)
 
-[7. Treasury Markets](./busi448/07_treasuries.html)
+[7. Treasury Markets](./busi448/07_treasuries.html) [![notebook #1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kpcrotty/busi448/blob/main/class_notebooks/07_treasuries.ipynb)
 
-[8. Arbitrage + No-arbitrage Pricing](./busi448/08_arbitrage.html)
+[8. Arbitrage + No-arbitrage Pricing](./busi448/08_arbitrage.html) [![notebook #1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kpcrotty/busi448/blob/main/class_notebooks/08_arbitrage.ipynb)
 
-[9. Markets, Trading, & Adverse Selection](./busi448/09_markets.html) 
-
+[9. Markets, Trading, & Adverse Selection](./busi448/09_markets.html) [![notebook #1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kpcrotty/busi448/blob/main/class_notebooks/)
 <!-- &nbsp;&nbsp; [(Notes on optimal bidding)](./busi448/asymmetric_info.html)  -->
 
-[10. Leverage + Margin](./busi448/10_leverage.html)
+[10. Leverage + Margin](./busi448/10_leverage.html) [![notebook #1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kpcrotty/busi448/blob/main/class_notebooks/10_leverage.ipynb)
 
-[11. Short-selling + Limits to Arbitrage](./busi448/11_shorting.html)
+[11. Short-selling + Limits to Arbitrage](./busi448/11_shorting.html) [![notebook #1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kpcrotty/busi448/blob/main/class_notebooks/11_shorting.ipynb)
 
 #### Optimal Portfolios
 
-[12. Diversification](./busi448/12_diversification.html)
+[12. Diversification](./busi448/12_diversification.html) [![notebook #1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kpcrotty/busi448/blob/main/class_notebooks/12_diversification.ipynb)
 
-[13. Theory](./busi448/13_portfolios_theory.html)
+[13. Theory](./busi448/13_portfolios_theory.html) [![notebook #1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kpcrotty/busi448/blob/main/class_notebooks/13a_portfolios_theory.ipynb)
+[![notebook #1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kpcrotty/busi448/blob/main/class_notebooks/13b_portfolios_theory.ipynb)
 
-[14. Practice: Borrowing Frictions](./busi448/14_portfolios_borrowing_frictions.html)
+[14. Practice: Borrowing Frictions](./busi448/14_portfolios_borrowing_frictions.html) [![notebook #1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kpcrotty/busi448/blob/main/class_notebooks/14_portfolios_borrowing_frictions.ipynb)
 
-[15. Practice: Shorting Constraints](./busi448/15_portfolios_short_constraints.html)
+[15. Practice: Shorting Constraints](./busi448/15_portfolios_short_constraints.html) [![notebook #1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kpcrotty/busi448/blob/main/class_notebooks/15a_portfolios_short_constraints.ipynb) [![notebook #1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kpcrotty/busi448/blob/main/class_notebooks/15b_industry_frontier.ipynb)
 
-[16. Rebalancing](./busi448/16_rebalancing.html)
+[16. Rebalancing](./busi448/16_rebalancing.html) [![notebook #1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kpcrotty/busi448/blob/main/class_notebooks/16a_risk_aversion.ipynb) [![notebook #1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kpcrotty/busi448/blob/main/class_notebooks/16b_simulation.ipynb) [![notebook #1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kpcrotty/busi448/blob/main/class_notebooks/16c_rebalancing.ipynb)
 
-[17. Input Sensitivity](./busi448/17_input_sensitivity.html)
+[17. Input Sensitivity](./busi448/17_input_sensitivity.html) [![notebook #1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kpcrotty/busi448/blob/main/class_notebooks/17a_backtest_sbbg.ipynb) [![notebook #1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kpcrotty/busi448/blob/main/class_notebooks/17b_backtest_industries.ipynb)
 
 #### Equity Topics
 
-[18. Benchmark models](./busi448/18_mkt_model_regression.html)
+[18. Benchmark models](./busi448/18_mkt_model_regression.html) [![notebook #1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kpcrotty/busi448/blob/main/class_notebooks/18a_mkt_model_regression.ipynb) [![notebook #1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kpcrotty/busi448/blob/main/class_notebooks/18b_backtest_industries_mkt_model.ipynb)
 
-[19. CAPM](./busi448/19_capm.html)
+[19. CAPM](./busi448/19_capm.html) [![notebook #1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kpcrotty/busi448/blob/main/class_notebooks/19_capm.ipynb)
 
-[20. Return Predictability](./busi448/20_predictability.html)
+[20. Return Predictability](./busi448/20_predictability.html) [![notebook #1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kpcrotty/busi448/blob/main/class_notebooks/20_predictability.ipynb)
 
-[21. Multifactor Models](./busi448/21_multifactor_models.html)
+[21. Multifactor Models](./busi448/21_multifactor_models.html) [![notebook #1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kpcrotty/busi448/blob/main/class_notebooks/21a_equity_factors.ipynb) [![notebook #1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kpcrotty/busi448/blob/main/class_notebooks/21b_factor_models_and_exprets.ipynb) [![notebook #1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kpcrotty/busi448/blob/main/class_notebooks/21c_fama_macbeth_exprets.ipynb)
 
 #### Fixed Income Topics
 
-[22. Duration](./busi448/22_duration.html)
+[22. Duration](./busi448/22_duration.html) [![notebook #1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kpcrotty/busi448/blob/main/class_notebooks/22_duration.ipynb)
 
-[23. Convexity](./busi448/23_convexity.html)
+[23. Convexity](./busi448/23_convexity.html) [![notebook #1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kpcrotty/busi448/blob/main/class_notebooks/23_convexity.ipynb)
 
-[24. Credit Risk](./busi448/24_credit_risk.html)
+[24. Credit Risk](./busi448/24_credit_risk.html) [![notebook #1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kpcrotty/busi448/blob/main/class_notebooks/24_credit_risk.ipynb)
 
 
 
 #### Performance Evaluation
 
-[25. Asset Management + Performance Measures](./busi448/25_asset_mgt.html)
-<!-- [24. Asset Management](./busi448/trading_securities.html) -->
-
-<!-- [25. Returns-based Measures](./busi448/trading_securities.html) -->
-
-<!-- 26. Fees -->
-<!-- [26. Fees](./busi448/trading_securities.html) -->
+[25. Asset Management + Performance Measures](./busi448/25_asset_mgt.html) [![notebook #1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kpcrotty/busi448/blob/main/class_notebooks/25a_mutual_fund_perfeval.ipynb) [![notebook #1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kpcrotty/busi448/blob/main/class_notebooks/25b_momentum_etf_perfeval.ipynb) [![notebook #1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kpcrotty/busi448/blob/main/class_notebooks/25c_attribution_analysis.ipynb) [![notebook #1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kpcrotty/busi448/blob/main/class_notebooks/25d_market_timing.ipynb)
 
 #### Taxes
 
-[26. Taxes](./busi448/26_tax_advantaged_accts.html)
+[26. Taxes](./busi448/26_tax_advantaged_accts.html) [![notebook #1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kpcrotty/busi448/blob/main/class_notebooks/26a_tax_primer.ipynb) [![notebook #1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kpcrotty/busi448/blob/main/class_notebooks/26b_tax_advantaged_savings.ipynb) [![notebook #1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kpcrotty/busi448/blob/main/class_notebooks/26c_mortgage_interest.ipynb)
 
-<!-- 23. Tax-advantaged Assets -->
-<!-- [23. Tax-advantaged Assets](./busi448/trading_securities.html) -->
+
 
 #### Review/Catch-up
 
