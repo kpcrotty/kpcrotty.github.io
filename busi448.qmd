@@ -41,8 +41,7 @@ Associate Professor of Finance<br>
 
 [8. Arbitrage + No-arbitrage Pricing](./busi448/08_arbitrage.html) [(PDF)](./busi448/pdfs/08_arbitrage.pdf){target="_blank"}  [![notebook #1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kpcrotty/busi448/blob/main/class_notebooks/08_arbitrage.ipynb)
 
-[9. Markets, Trading, & Adverse Selection](./busi448/09_markets.html) [(PDF)](./busi448/pdfs/09_markets.pdf)  [![notebook #1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kpcrotty/busi448/blob/main/class_notebooks/)
-<!-- &nbsp;&nbsp; [(Notes on optimal bidding)](./busi448/asymmetric_info.html)  -->
+[9. Markets, Trading, & Adverse Selection](./busi448/09_markets.html) [(PDF)](./busi448/pdfs/09_markets.pdf) &nbsp;&nbsp; [(Notes on optimal bidding)](./busi448/asymmetric_info.html) 
 
 [10. Leverage + Margin](./busi448/10_leverage.html) [(PDF)](./busi448/pdfs/10_leverage.pdf)  [![notebook #1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kpcrotty/busi448/blob/main/class_notebooks/10_leverage.ipynb)
 
@@ -50,7 +49,7 @@ Associate Professor of Finance<br>
 
 #### Optimal Portfolios
 
-[12. Diversification](./busi448/12_diversification.html) [(PDF)](./busi448/pdfs/12_diversification.pdf)  [(PDF)](./busi448/pdfs/01_intro.pdf)  [![notebook #1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kpcrotty/busi448/blob/main/class_notebooks/12_diversification.ipynb)
+[12. Diversification](./busi448/12_diversification.html) [(PDF)](./busi448/pdfs/12_diversification.pdf)  [![notebook #1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kpcrotty/busi448/blob/main/class_notebooks/12_diversification.ipynb)
 
 [13. Theory](./busi448/13_portfolios_theory.html) [(PDF)](./busi448/pdfs/13_portfolios_theory.pdf)  [![notebook #1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kpcrotty/busi448/blob/main/class_notebooks/13a_portfolios_theory.ipynb)
 [![notebook #1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kpcrotty/busi448/blob/main/class_notebooks/13b_portfolios_theory.ipynb)
