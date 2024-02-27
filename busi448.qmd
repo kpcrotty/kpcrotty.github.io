@@ -3,9 +3,9 @@
 
 [Learn Investments App](https://learn-investments.rice-business.org)
 
-[Learn Investments Overview](./busi448/99_learn_investments.html)
+<!-- [Learn Investments Overview](./busi448/99_learn_investments.html) -->
 
-[Course Code Binder](https://mybinder.org/v2/gh/kpcrotty/busi448_binder/HEAD)
+<!-- [Course Code Binder](https://mybinder.org/v2/gh/kpcrotty/busi448_binder/HEAD) -->
 
 <hr>
 
@@ -54,11 +54,11 @@ Associate Professor of Finance<br>
 [13. Theory](./busi448/13_portfolios_theory.html) [(PDF)](./busi448/pdfs/13_portfolios_theory.pdf)  [![notebook #1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kpcrotty/busi448/blob/main/class_notebooks/13a_portfolios_theory.ipynb)
 [![notebook #1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kpcrotty/busi448/blob/main/class_notebooks/13b_portfolios_theory.ipynb)
 
-[14. Practice: Borrowing Frictions](./busi448/14_portfolios_borrowing_frictions.html) [(PDF)](./busi448/pdfs/14_portfolios_borrowing_frictions.pdf)  [![notebook #1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kpcrotty/busi448/blob/main/class_notebooks/14_portfolios_borrowing_frictions.ipynb)
+[14. Practice: Borrowing Frictions](./busi448/14_portfolios_borrowing_frictions.html) [(PDF)](./busi448/pdfs/14_portfolios_borrowing_frictions.pdf)  [![notebook #1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kpcrotty/busi448/blob/main/class_notebooks/14a_portfolios_borrowing_frictions.ipynb)  [![notebook #1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kpcrotty/busi448/blob/main/class_notebooks/14b_risk_aversion.ipynb)
 
 [15. Practice: Shorting Constraints](./busi448/15_portfolios_short_constraints.html) [(PDF)](./busi448/pdfs/15_portfolios_short_constraints.pdf)  [![notebook #1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kpcrotty/busi448/blob/main/class_notebooks/15a_portfolios_short_constraints.ipynb) [![notebook #1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kpcrotty/busi448/blob/main/class_notebooks/15b_industry_frontier.ipynb)
 
-[16. Rebalancing](./busi448/16_rebalancing.html) [(PDF)](./busi448/pdfs/16_rebalancing.pdf)  [![notebook #1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kpcrotty/busi448/blob/main/class_notebooks/16a_risk_aversion.ipynb) [![notebook #1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kpcrotty/busi448/blob/main/class_notebooks/16b_simulation.ipynb) [![notebook #1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kpcrotty/busi448/blob/main/class_notebooks/16c_rebalancing.ipynb)
+[16. Rebalancing](./busi448/16_rebalancing.html) [(PDF)](./busi448/pdfs/16_rebalancing.pdf)  [![notebook #1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kpcrotty/busi448/blob/main/class_notebooks/16a_simulation.ipynb) [![notebook #1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kpcrotty/busi448/blob/main/class_notebooks/16b_rebalancing.ipynb)
 
 [17. Input Sensitivity](./busi448/17_input_sensitivity.html) [(PDF)](./busi448/pdfs/17_input_sensitivity.pdf)  [![notebook #1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kpcrotty/busi448/blob/main/class_notebooks/17a_backtest_sbbg.ipynb) [![notebook #1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kpcrotty/busi448/blob/main/class_notebooks/17b_backtest_industries.ipynb)
 
