@@ -17,7 +17,7 @@
 
 - [Proxy Advice and Errors in Shareholder Voting](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=3945818) (with Patrick Blonien, Alan Crane, and David De Angelis)
 
-- [How Prevalent is Informed Trading by Corporate Insiders?](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=4633070) (with Patrick Blonien and Alan Crane)
+- [Detecting Informed Trade by Corporate Insiders?](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=4633070) (with Patrick Blonien and Alan Crane)
 
 <hr>
 
