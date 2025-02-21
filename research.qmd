@@ -15,7 +15,7 @@
 
 ### Working Papers
 
-- [Proxy Advice and Errors in Shareholder Voting](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=3945818) (with Patrick Blonien, Alan Crane, and David De Angelis)
+- [The Quality of Advice in Shareholder Voting](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=3945818) (with Patrick Blonien, Alan Crane, and David De Angelis)
 
 - [Detecting Informed Trade by Corporate Insiders](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=4633070) (with Patrick Blonien and Alan Crane)
 
